@@ -1,6 +1,6 @@
 # Repara Gym
 
-A Flutter-based fitness application built with modern development practices and CI/CD principles.
+A Flutter-based application gym equipment fixing tutorials. Built with modern development practices and CI/CD principles.
 
 ## 🚀 Features
 
@@ -24,7 +24,7 @@ A Flutter-based fitness application built with modern development practices and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repara_gym.git
+   git clone https://github.com/novatio-creations/repara_gym.git
    cd repara_gym
    ```
 
@@ -155,7 +155,7 @@ Our CI pipeline runs on every push and pull request:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is property of Novatio Creations
 
 ## 🆘 Support
 
@@ -169,3 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 - [Flutter Testing](https://flutter.dev/docs/testing)
 - [GitHub Actions](https://docs.github.com/en/actions)- ci smoke Mon Aug 11 23:30:14 CST 2025
+
